@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DimonMaster
+- 👋 Hi, I’m @Dimfur20
 - 👀 I’m interested in arduino
 - 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on ...
